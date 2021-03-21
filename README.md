@@ -18,3 +18,5 @@ Run the following command
 > flux create kustomization root \
   source=root
 ```
+
+Currently the bootstrap will setup a sync to this repo and the systems consists of https://github.com/fredrkl/cloud-show-snatdemo-flux.
